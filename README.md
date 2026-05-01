@@ -100,13 +100,11 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 | # | Competition | Episode | Domain | Public Rank | Percentile | Best Score | Key Weapon |
 |---|-------------|---------|--------|-------------|------------|------------|------------|
-| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | 26.40868
- | Foundation |
-| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | 0.05581
- | Optimization |
-| 3️⃣ | Loan Payback | S5E11 | Finance | 1255/3724 | 33.7% | - | AutoML |
-| 4️⃣ | Diabetes | S5E12 | Medical | 877/4206 | 20.8% | - | Deep CV |
-| 5️⃣ | Test Scores | S6E1 | Education | 968/4317 | 22.4% | - | Consistency |
+| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | 26.40868 | Foundation |
+| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | 0.05581 | Optimization |
+| 3️⃣ | Loan Payback | S5E11 | Finance | 1255/3724 | 33.7% | 0.92380 | AutoML |
+| 4️⃣ | Diabetes | S5E12 | Medical | 877/4206 | 20.8% | 0.69760 | Deep CV |
+| 5️⃣ | Test Scores | S6E1 | Education | 968/4317 | 22.4% | 8.71293 | Consistency |
 | 6️⃣ | Heart Disease | S6E2 | Medical | 485/4370 | **11.1%** | 0.95410 | Domain Transfer |
 | 7️⃣ | Customer Churn | S6E3 | Business | 481/4143 | **11.62%** | 0.91787 | Feature Mastery |
 | 8️⃣ | **Irrigation Need** | **S6E4** | **Agriculture** | **92/4315** | **🔥 2.13%** | **0.98151** | **Voting Ensembles** |
