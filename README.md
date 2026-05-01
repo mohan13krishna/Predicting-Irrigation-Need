@@ -22,7 +22,7 @@
 
 ### **A Journey That Started With Heartbeats and running at Harvest**
 
-**Eight competitions. Zero mercy.** We've predicted heartbeats (S6E2, Top 11.1%), deciphered customer behavior (S6E3, Top 11.62%), and now we're telling farmers when to water their crops. From ICUs to irrigation canals — this ensemble architecture doesn't care what the domain is. It just *wins*.
+**Eight competitions. Zero mercy.** We've predicted heartbeats (S6E2, Top 11.1%), deciphered customer behavior (S6E3, Top 11.62%), and now we're telling farmers when to water their crops. From ICUs to irrigation canals - this ensemble architecture doesn't care what the domain is. It just *wins*.
 
 This is not a casual submission. This is the **CULMINATION** of 8 consecutive competitions worth of hard-earned knowledge, broken notebooks, sleepless hyperparameter searches, and one obsessive team that refused to settle for the middle of the leaderboard.
 
@@ -86,7 +86,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 ## 📊 MISSION BRIEFING
 
-**Objective:** Predict irrigation need - Low, Medium, or High — based on agricultural & environmental features
+**Objective:** Predict irrigation need - Low, Medium, or High - based on agricultural & environmental features
 **Challenge:** Kaggle Playground Series - Season 6, Episode 4
 **Metric:** Balanced Accuracy (multi-class)
 **Team Status:** Near-Master-Level Performance — **Top 2.13% (Public), Top 2.09% (Private) 🏆**
@@ -100,8 +100,10 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 | # | Competition | Episode | Domain | Public Rank | Percentile | Best Score | Key Weapon |
 |---|-------------|---------|--------|-------------|------------|------------|------------|
-| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | - | Foundation |
-| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | - | Optimization |
+| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | 26.40868
+ | Foundation |
+| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | 0.05581
+ | Optimization |
 | 3️⃣ | Loan Payback | S5E11 | Finance | 1255/3724 | 33.7% | - | AutoML |
 | 4️⃣ | Diabetes | S5E12 | Medical | 877/4206 | 20.8% | - | Deep CV |
 | 5️⃣ | Test Scores | S6E1 | Education | 968/4317 | 22.4% | - | Consistency |
