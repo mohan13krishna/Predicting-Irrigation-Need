@@ -89,7 +89,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 **Objective:** Predict irrigation need - Low, Medium, or High - based on agricultural & environmental features
 **Challenge:** Kaggle Playground Series - Season 6, Episode 4
 **Metric:** Balanced Accuracy (multi-class)
-**Team Status:** Near-Master-Level Performance — **Top 2.13% (Public), Top 2.09% (Private) 🏆**
+**Team Status:** Near-Master-Level Performance - **Top 2.13% (Public), Top 2.09% (Private) 🏆**
 **Current Achievement:** Best Score **0.98151** (Public) / **0.98054** (Private) - **Public Rank: 92/4143 | Private Rank: 90/4315** | **LEGENDARY FINISH!**
 
 ---
@@ -111,7 +111,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 **Average Percentile (All 8):** ~17.0%
 **Best Percentile:** **2.13%** ← That's this one. Right here. 🏆
-**Trajectory:** 48.3% → 2.13% — One of the greatest improvement arcs in Kaggle Playground history for a team.
+**Trajectory:** 48.3% → 2.13% - One of the greatest improvement arcs in Kaggle Playground history for a team.
 **Mission Status:** ✅ MASTER TIER THRESHOLD CROSSED!
 
 ---
@@ -173,7 +173,7 @@ And we did. With **98%+ balanced accuracy**.
 ### **🔮 ADVANCED: Voting Ensemble - The Final Boss**
 - **Strategy:** Soft-voting across XGBoost + LightGBM + CatBoost
 - **Optimization:** Optuna fallback for weight search when hill climbing plateaus
-- **Innovation:** Pattern Analysis Push — cross-depth voting with depth=4 variants
+- **Innovation:** Pattern Analysis Push - cross-depth voting with depth=4 variants
 - **Result:** The submission that cracked Top 2%
 
 ---
@@ -245,7 +245,7 @@ Four independent seeds × three model families = 12 diverse base learners per fo
 We didn't just tune one depth — we trained `max_depth ∈ {3, 4, 5, 6, 7}` for each framework and cross-blended. A `depth=4` XGBoost + `depth=7` LightGBM sees the world at two different resolutions.
 
 **3. Stratified Multi-Class CV 🔄**
-Multi-class balanced accuracy is brutally unforgiving on rare classes. Our 20-fold stratified CV guaranteed every rare class appeared in every validation fold — no fold was allowed to be clueless about "High" irrigation.
+Multi-class balanced accuracy is brutally unforgiving on rare classes. Our 20-fold stratified CV guaranteed every rare class appeared in every validation fold - no fold was allowed to be clueless about "High" irrigation.
 
 **4. Pseudo-Labeling at High Confidence 🔮**
 With TRES = 0.995 (99.5% confidence), only the most certain predictions became pseudo-labels. This expanded our effective training set by ~15% without introducing noise.
@@ -430,9 +430,9 @@ final_class  = np.argmax(final_proba, axis=1)
 
 ### **Why Irrigation Prediction Matters**
 
-Water is Earth's most finite resource. Agriculture consumes ~70% of global freshwater. Inefficient irrigation isn't just expensive — it accelerates soil degradation, depletes aquifers, and contributes to food insecurity. A model that accurately predicts irrigation need at scale can:
+Water is Earth's most finite resource. Agriculture consumes ~70% of global freshwater. Inefficient irrigation isn't just expensive - it accelerates soil degradation, depletes aquifers, and contributes to food insecurity. A model that accurately predicts irrigation need at scale can:
 
-- **Reduce water waste by 20–40%** in automated irrigation systems
+- **Reduce water waste by 20-40%** in automated irrigation systems
 - **Prevent over-watering** that leads to root rot and crop loss
 - **Prevent under-watering** that stresses crops during critical growth stages
 - **Enable data-driven farming** for smallholders who can't afford agronomists
@@ -458,27 +458,27 @@ Fleet-Level (1000 farms):
 
 ---
 
-## 🏆 COMPETITION TRAJECTORY — THE COMPLETE ARC
+## 🏆 COMPETITION TRAJECTORY - THE COMPLETE ARC
 
 ```
 S5E9  Comp#1  48.3%  ██░░░░░░░░  Learning to crawl
    ↓ (+24.8pp)
 S5E10 Comp#2  23.5%  █████░░░░░  First real breakthrough
    ↓ (-10.2pp)
-S5E11 Comp#3  33.7%  ████░░░░░░  Plateau — AutoML experiments
+S5E11 Comp#3  33.7%  ████░░░░░░  Plateau - AutoML experiments
    ↓ (+12.9pp)
-S5E12 Comp#4  20.8%  █████░░░░░  Best till then — deep CV unlocked
+S5E12 Comp#4  20.8%  █████░░░░░  Best till then - deep CV unlocked
    ↓ (-1.6pp)
 S6E1  Comp#5  22.4%  █████░░░░░  Consistency validated
    ↓ (+11.3pp)
-S6E2  Comp#6  11.1%  ███████░░░  EXPERT TIER — full arsenal fires
+S6E2  Comp#6  11.1%  ███████░░░  EXPERT TIER - full arsenal fires
    ↓ (+0.5pp)
-S6E3  Comp#7  11.6%  ███████░░░  Expert held — churn mastered
+S6E3  Comp#7  11.6%  ███████░░░  Expert held - churn mastered
    ↓ (+9.5pp)
-S6E4  Comp#8   2.1%  █████████░  TOP 2.1% — MASTER TIER KNOCKING 🚪
+S6E4  Comp#8   2.1%  █████████░  TOP 2.1% - MASTER TIER KNOCKING 🚪
 ```
 
-**From 48.3% to 2.1% — not in years. In eight competition cycles.**
+**From 48.3% to 2.1% - not in years. In eight competition cycles.**
 That's not luck. That's a *system*.
 
 ---
@@ -504,7 +504,7 @@ That's not luck. That's a *system*.
 
 ## 📚 LINKS & REFERENCES
 
-- 🌐 [Kaggle Competition — S6E4](https://kaggle.com/competitions/playground-series-s6e4)
+- 🌐 [Kaggle Competition - S6E4](https://kaggle.com/competitions/playground-series-s6e4)
 - 📁 [GitHub Repository](https://github.com/mohan13krishna/Predicting-Irrigation-Need)
 - 💙 [Previous: Customer Churn (S6E3)](https://github.com/mohan13krishna/Predict-Customer-Churn)
 - ❤️ [Previous: Heart Disease (S6E2)](https://github.com/mohan13krishna/Predicting-Heart-Disease)
@@ -513,7 +513,7 @@ That's not luck. That's a *system*.
 
 <div align="center">
 
-# 🌊 TOP 2.1% — MASTER TIER IS NEXT 🌊
+# 🌊 TOP 2.1% - MASTER TIER IS NEXT 🌊
 
 ## *"From 48% to 2% in eight competitions. Not a sprint. A surgical climb."*
 
