@@ -42,8 +42,8 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 <b>👑 Mohan Krishna Thalla</b><br/>
 <i>Team Lead & Ensemble Architect</i><br/>
 <i>"The Orchestrator - 8 Comps, 0 Regrets"</i><br/>
-<b>🏆 Kaggle Notebooks Expert (1635/59495)</b><br/>
-<b>📊 Datasets Expert (339/8458)</b><br/><br/>
+<b>🏆 Kaggle Notebooks Expert (458/61,524)</b><br/>
+<b>📊 Datasets Expert (226/9,325)</b><br/><br/>
 <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-Expert-FFD700?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/mohan13krishna"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </td>
