@@ -8,9 +8,9 @@
 ![Score](https://img.shields.io/badge/Best%20Score-0.98151-00FF00?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.8+-3776AB?style=for-the-badge&logo=python)
 
-### 🌊 **SEASON 6 EPISODE 4 — THE ASCENT TO MASTER TIER** 🌊
+### 🌊 **SEASON 6 EPISODE 4 - THE ASCENT TO MASTER TIER** 🌊
 
-> *"Eight competitions deep. The ensemble machine doesn't just predict anymore — it breathes. From customer hearts to crop fields, no domain is too wild."*
+> *"Eight competitions deep. The ensemble machine doesn't just predict anymore - it breathes. From customer hearts to crop fields, no domain is too wild."*
 
 **Voting Ensemble Strategy | Pattern Analysis Push | Multi-Seed Diversity | 98% Balanced Accuracy**
 
@@ -18,9 +18,9 @@
 
 ---
 
-## 🔥 **THE LEGEND GROWS — COMPETITION #8**
+## 🔥 **THE LEGEND GROWS - COMPETITION #8**
 
-### **A Journey That Started With Heartbeats and Ended at Harvest**
+### **A Journey That Started With Heartbeats and running at Harvest**
 
 **Eight competitions. Zero mercy.** We've predicted heartbeats (S6E2, Top 11.1%), deciphered customer behavior (S6E3, Top 11.62%), and now we're telling farmers when to water their crops. From ICUs to irrigation canals — this ensemble architecture doesn't care what the domain is. It just *wins*.
 
@@ -33,7 +33,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 ---
 
-### 👥 **THE ELITE SQUAD — TEAM PHOENIX ALGORITHMS**
+### 👥 **THE ELITE SQUAD - TEAM PHOENIX ALGORITHMS**
 
 <table>
 <tr>
@@ -41,7 +41,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 <img src="https://github.com/mohan13krishna.png" width="150px" style="border-radius:50%;" alt="Mohan Krishna Thalla"/><br/>
 <b>👑 Mohan Krishna Thalla</b><br/>
 <i>Team Lead & Ensemble Architect</i><br/>
-<i>"The Orchestrator — 8 Comps, 0 Regrets"</i><br/>
+<i>"The Orchestrator - 8 Comps, 0 Regrets"</i><br/>
 <b>🏆 Kaggle Notebooks Expert (1635/59495)</b><br/>
 <b>📊 Datasets Expert (339/8458)</b><br/><br/>
 <a href="https://www.kaggle.com/mohankrishnathalla"><img src="https://img.shields.io/badge/Kaggle-Expert-FFD700?style=flat&logo=kaggle&logoColor=white"/></a>
@@ -51,7 +51,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 <img src="https://github.com/rakeshkolipakaace.png" width="150px" style="border-radius:50%;" alt="Rakesh Kolipaka"/><br/>
 <b>🔧 Rakesh Kolipaka</b><br/>
 <i>ML Engineer & Feature Wizard</i><br/>
-<i>"The Alchemist — Turns Columns Into Gold"</i><br/><br/>
+<i>"The Alchemist - Turns Columns Into Gold"</i><br/><br/>
 <a href="https://www.kaggle.com/rakesh630"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/rakeshkolipakaace"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </td>
@@ -59,7 +59,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 <img src="https://github.com/ranjith93250.png" width="150px" style="border-radius:50%;" alt="Ranjith Kumar Digutla"/><br/>
 <b>⚡ Ranjith Kumar Digutla</b><br/>
 <i>ML Engineer & Stacking Specialist</i><br/>
-<i>"The Stack Master — Layers Upon Layers"</i><br/><br/>
+<i>"The Stack Master - Layers Upon Layers"</i><br/><br/>
 <a href="https://www.kaggle.com/digutlaranjithkumar"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/ranjith93250"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </td>
@@ -67,7 +67,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 <img src="https://github.com/udaykiran2102.png" width="150px" style="border-radius:50%;" alt="Neelam Uday Kiran"/><br/>
 <b>🎯 Neelam Uday Kiran</b><br/>
 <i>Strategic Advisor & Feature Engineer</i><br/>
-<i>"The Precision Sniper — Never Misses"</i><br/><br/>
+<i>"The Precision Sniper - Never Misses"</i><br/><br/>
 <a href="https://www.kaggle.com/neelamuday"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
 <a href="https://github.com/udaykiran2102"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/></a>
 </td>
@@ -78,7 +78,7 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 **🏆 EIGHTH COMPETITION (S6E4) | TOP 2.1% | IRRIGATION NEED PREDICTION 🏆**
 
-*Every competition teaches something new. This one taught us that crops and customers aren't so different — both need the right resource at the right time.*
+*Every competition teaches something new. This one taught us that crops and customers aren't so different - both need the right resource at the right time.*
 
 </div>
 
@@ -86,26 +86,25 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 ## 📊 MISSION BRIEFING
 
-**Objective:** Predict irrigation need — Low, Medium, or High — based on agricultural & environmental features
-**Challenge:** Kaggle Playground Series — Season 6, Episode 4
-**Duration:** Completed ✅ — April 2026
+**Objective:** Predict irrigation need - Low, Medium, or High — based on agricultural & environmental features
+**Challenge:** Kaggle Playground Series - Season 6, Episode 4
 **Metric:** Balanced Accuracy (multi-class)
 **Team Status:** Near-Master-Level Performance — **Top 2.13% (Public), Top 2.09% (Private) 🏆**
-**Current Achievement:** Best Score **0.98151** (Public) / **0.98054** (Private) — **Public Rank: 92/4143 | Private Rank: 90/4315** | **LEGENDARY FINISH!**
+**Current Achievement:** Best Score **0.98151** (Public) / **0.98054** (Private) - **Public Rank: 92/4143 | Private Rank: 90/4315** | **LEGENDARY FINISH!**
 
 ---
 
-## 🎯 THE FULL BATTLEFIELD — ALL 8 COMPETITIONS
+## 🎯 THE FULL BATTLEFIELD - ALL 8 COMPETITIONS
 
-### **📈 THE COMPLETE JOURNEY — PHOENIX RISING**
+### **📈 THE COMPLETE JOURNEY - PHOENIX RISING**
 
 | # | Competition | Episode | Domain | Public Rank | Percentile | Best Score | Key Weapon |
 |---|-------------|---------|--------|-------------|------------|------------|------------|
-| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | — | Foundation |
-| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | — | Optimization |
-| 3️⃣ | Loan Payback | S5E11 | Finance | 1255/3724 | 33.7% | — | AutoML |
-| 4️⃣ | Diabetes | S5E12 | Medical | 877/4206 | 20.8% | — | Deep CV |
-| 5️⃣ | Test Scores | S6E1 | Education | 968/4317 | 22.4% | — | Consistency |
+| 1️⃣ | BPM Prediction | S5E9 | Medical | 1246/2581 | 48.3% | - | Foundation |
+| 2️⃣ | Road Accidents | S5E10 | Transport | 960/4082 | 23.5% | - | Optimization |
+| 3️⃣ | Loan Payback | S5E11 | Finance | 1255/3724 | 33.7% | - | AutoML |
+| 4️⃣ | Diabetes | S5E12 | Medical | 877/4206 | 20.8% | - | Deep CV |
+| 5️⃣ | Test Scores | S6E1 | Education | 968/4317 | 22.4% | - | Consistency |
 | 6️⃣ | Heart Disease | S6E2 | Medical | 485/4370 | **11.1%** | 0.95410 | Domain Transfer |
 | 7️⃣ | Customer Churn | S6E3 | Business | 481/4143 | **11.62%** | 0.91787 | Feature Mastery |
 | 8️⃣ | **Irrigation Need** | **S6E4** | **Agriculture** | **92/4315** | **🔥 2.13%** | **0.98151** | **Voting Ensembles** |
@@ -119,9 +118,9 @@ We didn't just reach Expert tier this time. We *knocked on Master's door*.
 
 ## 🌾 THE PROBLEM: WHAT ARE WE ACTUALLY PREDICTING?
 
-Every farm is different. Soil moisture, temperature, humidity, crop type, season — dozens of factors determine whether a field needs **a little water**, **a moderate amount**, or **a full irrigation cycle**. Getting this wrong costs money, wastes a precious resource, or kills the harvest.
+Every farm is different. Soil moisture, temperature, humidity, crop type, season - dozens of factors determine whether a field needs **a little water**, **a moderate amount**, or **a full irrigation cycle**. Getting this wrong costs money, wastes a precious resource, or kills the harvest.
 
-Our mission: build a model that can look at these environmental and agricultural signals and confidently say — **Low, Medium, or High.**
+Our mission: build a model that can look at these environmental and agricultural signals and confidently say - **Low, Medium, or High.**
 
 And we did. With **98%+ balanced accuracy**.
 
@@ -132,12 +131,12 @@ And we did. With **98%+ balanced accuracy**.
 **Dataset Source:** Synthetically generated from the original Irrigation Prediction dataset
 **Training Samples:** ~630,000 rows
 **Test Samples:** ~270,000 rows
-**Target Classes:** 3 (Low, Medium, High — balanced across folds)
+**Target Classes:** 3 (Low, Medium, High - balanced across folds)
 **Evaluation Metric:** Balanced Accuracy (accounts for class imbalance)
 **Files Used:**
-- `train.csv` — the ground truth battlefield
-- `test.csv` — the 270K unknowns we had to conquer
-- `original.csv` — the real-world anchor, used as bonus training signal
+- `train.csv` - the ground truth battlefield
+- `test.csv` - the 270K unknowns we had to conquer
+- `original.csv` - the real-world anchor, used as bonus training signal
 
 ### **Feature Categories**
 
@@ -154,24 +153,24 @@ And we did. With **98%+ balanced accuracy**.
 
 ## 🏢 THE IRRIGATION PREDICTION ARSENAL
 
-### **🥇 PRIMARY: XGBoost — The Veteran Warrior**
+### **🥇 PRIMARY: XGBoost - The Veteran Warrior**
 - **Role:** Backbone of every ensemble we built
-- **Depth:** Tuned `max_depth` (3–5) across all seeds for multi-class stability
+- **Depth:** Tuned `max_depth` (3-5) across all seeds for multi-class stability
 - **Strength:** Handles mixed feature types, robust to noise
 - **Special:** 4-seed diversity (SEED = 42, 123, 456, 789) for variance reduction
 - **Expected CV:** ~0.9796+
 
-### **🥈 SECONDARY: LightGBM — The Speed Demon**
+### **🥈 SECONDARY: LightGBM - The Speed Demon**
 - **Role:** Fast iteration partner to XGBoost
 - **Strength:** Memory efficiency + `num_leaves` tuning for fine decision boundaries
 - **Special:** `min_child_samples` tuned per class to handle imbalance gracefully
 
-### **🥉 TERTIARY: CatBoost — The Multi-Class Maestro**
+### **🥉 TERTIARY: CatBoost - The Multi-Class Maestro**
 - **Role:** Native handling of categorical features + `MultiClass` loss
 - **Strength:** Ordered boosting reduces target leakage automatically
 - **Special:** `auto_class_weights='Balanced'` for equal class treatment
 
-### **🔮 ADVANCED: Voting Ensemble — The Final Boss**
+### **🔮 ADVANCED: Voting Ensemble - The Final Boss**
 - **Strategy:** Soft-voting across XGBoost + LightGBM + CatBoost
 - **Optimization:** Optuna fallback for weight search when hill climbing plateaus
 - **Innovation:** Pattern Analysis Push — cross-depth voting with depth=4 variants
@@ -212,7 +211,7 @@ And we did. With **98%+ balanced accuracy**.
 
 ---
 
-## 📊 SUBMISSION JOURNEY — FROM 0.96 TO 0.98
+## 📊 SUBMISSION JOURNEY - FROM 0.96 TO 0.98
 
 ### **The Full Arc (Best Scores Only)**
 
@@ -344,55 +343,6 @@ Predicting-Irrigation-Need/
 ├── 📝 README.md                          # You are here
 └── .gitignore
 ```
-
----
-
-## 🚀 QUICK START
-
-### **Option 1: Run on Kaggle (Recommended)**
-```bash
-# 1. Go to kaggle.com/code → Import Notebook
-# 2. Paste: https://github.com/mohan13krishna/Predicting-Irrigation-Need
-# 3. Add dataset: playground-series-s6e4
-# 4. Enable GPU accelerator
-# 5. Run Predicting_Irrigation_Pattern_Push_V8.ipynb
-# 6. Submit predictions.csv
-```
-
-### **Option 2: Local Execution**
-```bash
-# Clone repository
-git clone https://github.com/mohan13krishna/Predicting-Irrigation-Need.git
-cd Predicting-Irrigation-Need
-
-# Install dependencies
-pip install pandas numpy scikit-learn xgboost lightgbm catboost scipy optuna
-
-# Run best notebook
-jupyter notebook Programs/Predicting_Irrigation_Pattern_Push_V8.ipynb
-```
-
----
-
-## 📋 REQUIREMENTS
-
-```
-pandas>=1.3.0
-numpy>=1.21.0
-scikit-learn>=0.24.0
-xgboost>=1.5.0          # Multi-class softprob support
-lightgbm>=3.3.0         # multiclass objective
-catboost>=1.0.0         # MultiClass loss + auto class weights
-scipy>=1.7.0            # Statistics & optimization
-optuna>=2.10.0          # Bayesian weight search (key addition for S6E4)
-```
-
-**Optional:**
-```
-cupy>=9.0.0             # GPU acceleration for XGBoost
-```
-
----
 
 ## ⏱️ RUNTIME EXPECTATIONS
 
@@ -577,7 +527,7 @@ That's not luck. That's a *system*.
 
 ---
 
-**[Competition Link](https://www.kaggle.com/competitions/playground-series-s6e4)** | **April 2026** | **#TeamPhoenixAlgorithms**
+**[Competition Link]([https://www.kaggle.com/competitions/playground-series-s6e4](https://www.kaggle.com/competitions/playground-series-s6e4))** | **April 2026** | **#TeamPhoenixAlgorithms**
 
 ### 🎖️ **Near-Master Tier Achieved | Public Rank: 92/4315 | Private Rank: 90/4315 | 0.98151 Balanced Accuracy 🎖️**
  
