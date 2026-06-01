@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S6E4-20BEFF?style=for-the-badge&logo=kaggle)
+![Kaggle](https://img.shields.io/badge/Kaggle-Playground%20S6E4-20BEFF?style=for-the-badge&logo=kaggle) 
 ![Public Rank](https://img.shields.io/badge/PUBLIC%20RANK-92%2F4315-FFD700?style=for-the-badge)
 ![Private Rank](https://img.shields.io/badge/PRIVATE%20RANK-90%2F4315-00D9FF?style=for-the-badge)
 ![Score](https://img.shields.io/badge/Best%20Score-0.98151-00FF00?style=for-the-badge)
